@@ -24,6 +24,6 @@ Here is the example of usage:
 ```shell
 scrapper.find_news_by_coin('cardano')
 
-Cardano, Terra Price Analysis: October 1, 2021 | Headlines
-https://coinmarketcap.com/headlines/news/cardano-terra-price-analysis-october-1-2021/
-Sep 30, 2021 — Cardano is stuck in consolidation above $2 despite key development milestones. Terra almost closed the gap to $40, but overhead pressure ...
+This Australian Alcohol Brand is Using Cardano to Manage its ...
+https://coinmarketcap.com/headlines/news/this-australian-alcohol-brand-is-using-cardano-to-manage-its-supply-chain/        
+Sep 30, 2021 — Australian luxury spirits company, Strait Brands has tapped the powers of the Cardano blockchain to manage its supply chain network.
