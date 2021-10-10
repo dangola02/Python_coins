@@ -1,0 +1,8 @@
+requests~=2.26.0
+Beautiful Soup~=4.9.0 
+
+
+
+
+
+
